@@ -1,4 +1,14 @@
+.p-one {
+    padding: 40px;
+    background-color: whitesmoke;
+    border-radius:20px ;
+}
 img {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.p-four {
+    padding: 20px;
+    margin-bottom: 0px;
 }
